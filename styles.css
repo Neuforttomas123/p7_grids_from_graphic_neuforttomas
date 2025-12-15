@@ -40,7 +40,7 @@
   line-height: 0.9;
 }
 #grey {
-  background: url("img/grey.svg");
+  background: url("assets/grey.svg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -67,7 +67,7 @@
   line-height: 0.9;
 }
 #blue {
-  background: url("azul.svg");
+  background: url("assets/azul.svg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -82,7 +82,7 @@
   padding: 75px 10px 15px 33px;
 }
 #pink {
-  background: url("rosa.svg") center/cover no-repeat;
+  background: url("assets/rosa.svg") center/cover no-repeat;
   grid-area: 7/2/9/3;
   display: flex;
   flex-direction: column;
@@ -114,5 +114,6 @@
   background-color: rgb(42, 159, 42);
   grid-area: 6/2/7/3;
 }
+
 
 
